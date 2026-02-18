@@ -1,6 +1,6 @@
 # Prob-EXP-01
 #CODE 
-'''
+```
 n = int(input("Enter number of values: "))
 
 x = []
@@ -28,8 +28,9 @@ else:
     print("Probabilities:", p)
     print("Mean =", EX)
     print("Variance =", variance)
-    '''
+ ```
   #Output
+```
   Enter number of values: 4
 Enter value x1: 0
 Enter probability p1: 0.25
@@ -43,6 +44,6 @@ Random variable values: [0.0, 1.0, 2.0, 3.0]
 Probabilities: [0.25, 0.25, 0.25, 0.25]
 Mean = 1.5
 Variance = 1.25
-
+```
 #RESULT:
 Hence the program for finding the mean and variance for a given probability distribution function is written and verified through output .
